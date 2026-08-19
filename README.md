@@ -12,7 +12,7 @@ My project experience includes UAV swarm communication, simulation, embedded sys
 
 A simulation-based project focused on autonomous UAV communication, swarm coordination, mission management, and dynamic response to changing mission conditions.
 
-🔗 [View ResQ-SWARM](BURAYA-GITHUB-LINKI-GELECEK)
+🔗 [[View ResQ-SWARM](https://resqswarm.framer.website)
 
 ## 🛠️ Technologies & Tools
 
