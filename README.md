@@ -12,7 +12,7 @@ My project experience includes UAV swarm communication, simulation, embedded sys
 
 A simulation-based project focused on autonomous UAV communication, swarm coordination, mission management, and dynamic response to changing mission conditions.
 
-🔗 [[View ResQ-SWARM](https://resqswarm.framer.website)
+ **Project Website:** [ResQ-SWARM](https://resqswarm.framer.website)
 
 ## 🛠️ Technologies & Tools
 
@@ -22,7 +22,7 @@ A simulation-based project focused on autonomous UAV communication, swarm coordi
 
 **Development:** Linux, Git, GitHub
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Software Engineering
 - Systems Engineering
@@ -30,6 +30,6 @@ A simulation-based project focused on autonomous UAV communication, swarm coordi
 - Embedded Systems
 - Simulation & Communication Systems
 
-## 📫 Connect with me
+##  Connect with me
 
 [LinkedIn] www.linkedin.com/in/pelin-şahin-945738290
