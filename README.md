@@ -1,10 +1,10 @@
-# Hi, I'm Pelin 👋
+# Hi, I'm Pelin 
 
 I'm a Computer Engineering graduate from TED University with an interest in software engineering, systems engineering, and autonomous systems.
 
 My project experience includes UAV swarm communication, simulation, embedded systems, and software development.
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### ResQ-SWARM
 
@@ -14,7 +14,7 @@ A simulation-based project focused on autonomous UAV communication, swarm coordi
 
  **Project Website:** [ResQ-SWARM](https://resqswarm.framer.website)
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Programming:** C, C++, Python, Java, JavaScript
 
