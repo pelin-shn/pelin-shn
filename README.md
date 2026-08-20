@@ -29,4 +29,4 @@ I specialize not only in technical implementation but also in the complete softw
 * **Software Engineering Specialization (HKUST):** Focused on UML-based system modeling, software design, testing, and object-oriented SDLC.
 * **Entrepreneurship & Business Modeling (Univ. of Maryland):** Strategic thinking and corporate innovation.
 
- **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pelinsahin-945738290)
+ **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pelin-şahin-945738290/)
