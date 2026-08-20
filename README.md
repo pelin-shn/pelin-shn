@@ -1,35 +1,32 @@
 # Hi, I'm Pelin 
 
-I'm a Computer Engineering graduate from TED University with an interest in software engineering, systems engineering, and autonomous systems.
+I am a Computer Engineering graduate with a strong foundation in **Software Engineering, Systems Architecture, and Autonomous Systems**. 
 
-My project experience includes UAV swarm communication, simulation, embedded systems, and software development.
+I specialize not only in technical implementation but also in the complete software development lifecycle (SDLC), including requirements analysis, UML-based system modeling, SRS documentation, and Agile task management using JIRA[cite: 2].
 
-##  Featured Project
+##  Featured Projects
 
-### ResQ-SWARM
+### ResQ-SWARM (Search & Rescue Drone Swarm)
+* **Domain:** Autonomous Systems & Simulation
+* **Description:** A simulation-based communication and coordination system for autonomous UAV swarms. Features dynamic task reassignment and fault tolerance scenarios[cite: 2]. 
+* **Tech Stack:** ROS, Gazebo, ArduPilot SITL, Linux[cite: 2].
 
-**Simulation-Based Communication and Coordination System for Autonomous UAV Swarms in Search-and-Rescue Operations**
+### Bank Management System
+* **Domain:** Embedded/Core Software Development
+* **Description:** A highly modular, file-based banking application featuring an authentication and transaction system, built with timestamp-based logging mechanisms[cite: 2].
+* **Tech Stack:** C, Modular Architecture (.c/.h)[cite: 2].
 
-A simulation-based project focused on autonomous UAV communication, swarm coordination, mission management, and dynamic response to changing mission conditions.
+## Technical & Engineering Skills
 
- **Project Website:** [ResQ-SWARM](https://resqswarm.framer.website)
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Software Engineering & Management** | Requirements Analysis, UML, SRS Documentation, Agile, JIRA[cite: 2] |
+| **Programming Languages** | C, C++, Java, Python[cite: 2] |
+| **Systems & Simulation** | Embedded Systems, UART, I2C, ROS, Gazebo, ArduPilot SITL[cite: 2] |
+| **Development Environments** | Linux, Ubuntu, Git, GitHub[cite: 2] |
 
-##  Technologies & Tools
+## Specialized Training
+* **Software Engineering Specialization (HKUST):** Focused on UML-based system modeling, software design, testing, and object-oriented SDLC[cite: 2].
+* **Entrepreneurship & Business Modeling (Univ. of Maryland):** Strategic thinking and corporate innovation[cite: 2].
 
-**Programming:** C, C++, Python, Java, JavaScript
-
-**Systems & Simulation:** ROS, Gazebo, ArduPilot SITL
-
-**Development:** Linux, Git, GitHub
-
-##  Areas of Interest
-
-- Software Engineering
-- Systems Engineering
-- UAV & Autonomous Systems
-- Embedded Systems
-- Simulation & Communication Systems
-
-##  Connect with me
-
-[LinkedIn] www.linkedin.com/in/pelin-şahin-945738290
+ **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pelinsahin-945738290)[cite: 2]
